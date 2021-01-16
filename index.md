@@ -11,25 +11,25 @@
 ---
 
 ## Spatial Statistics: 
-##[Identifying High Suicide Rates in Colorado](https://github.com/Emma-M-Collins/spatial_stats)
+## [Identifying High Suicide Rates in Colorado](https://github.com/Emma-M-Collins/spatial_stats)
 We aim to identify high suicide rates in Colorado counties...
 
 ---
 
 ## Master's Thesis: 
-##[An Introduction to the Apriori Algorithm for Mining Association Rules...](https://github.com/Emma-M-Collins/apriori)
+## [An Introduction to the Apriori Algorithm for Mining Association Rules...](https://github.com/Emma-M-Collins/apriori)
 An introduction to the apriori algorithm...
 
 ---
 
 ## Linear Regression: 
-##[Thornton Fire Department Turnout Time Analysis](https://github.com/Emma-M-Collins/turnout_time)
+## [Thornton Fire Department Turnout Time Analysis](https://github.com/Emma-M-Collins/turnout_time)
 Consulting for Thornton Fire Department in Thornton, CO...
 
 ---
 
 ## Classification: 
-##[Logistic Regression vs Random Forest on Mine Dataset](https://github.com/Emma-M-Collins/classification)
+## [Logistic Regression vs Random Forest on Mine Dataset](https://github.com/Emma-M-Collins/classification)
 Project to test the limits of Logistic Regression and Random Forest on a highly colinear dataset...
 
 
