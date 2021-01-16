@@ -29,8 +29,8 @@ Consulting for Thornton Fire Department in Thornton, CO...
 Project to test the limits of Logistic Regression and Random Forest on a highly colinear dataset...
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<> [Project 2 Title](/pdf/sample_presentation.pdf)
+<> <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 
 ---
