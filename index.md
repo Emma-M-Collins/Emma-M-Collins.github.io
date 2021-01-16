@@ -7,8 +7,8 @@
 - [Project 4: Classification Showdown](https://github.com/Emma-M-Collins/classification)
 ---
 
-### [Identifying High Suicide Rates in Colorado](https://github.com/Emma-M-Collins/spatial_stats)
-
+### Spatial Statistics: [Identifying High Suicide Rates in Colorado](https://github.com/Emma-M-Collins/spatial_stats)
+We aim to identify high suicide rates in Colorado counties...
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
