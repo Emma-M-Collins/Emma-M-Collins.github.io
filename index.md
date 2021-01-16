@@ -1,11 +1,11 @@
-## Portfolio
+# Portfolio
 
 ---
 
-### Category Name 1 
+### Spatial Statistics
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Identifying High Suicide Rates in Colorado](https://github.com/Emma-M-Collins/spatial_stats)
+
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
