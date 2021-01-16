@@ -2,7 +2,7 @@
 
 ---
 
-### Quick Links
+### Quick Links to GitHub Repositories
 * [Project 1: Spatial Statistics](https://github.com/Emma-M-Collins/spatial_stats)
 * [Project 2: Master's Thesis (Apriori Algorithm)](https://github.com/Emma-M-Collins/apriori)
 * [Project 3: Linear Regression with Categorical Variables](https://github.com/Emma-M-Collins/turnout_time)
