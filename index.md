@@ -1,10 +1,11 @@
 # Portfolio
 
-## Quick Links
+### Quick Links
 - [Project 1: Spatial Statistics](https://github.com/Emma-M-Collins/spatial_stats)
 - [Project 2: Apriori Algorithm](https://github.com/Emma-M-Collins/apriori)
 - [Project 3: Turnout Time Analysis](https://github.com/Emma-M-Collins/turnout_time)
 - [Project 4: Classification Showdown](https://github.com/Emma-M-Collins/classification)
+
 ---
 
 ### Spatial Statistics: [Identifying High Suicide Rates in Colorado](https://github.com/Emma-M-Collins/spatial_stats)
