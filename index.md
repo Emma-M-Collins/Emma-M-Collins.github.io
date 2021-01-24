@@ -16,7 +16,10 @@ We aim to identify high suicide rates in Colorado counties...
 ---
 
 ## Master's Thesis:<br>[An Introduction to the Apriori Algorithm for Mining Association Rules...](https://github.com/Emma-M-Collins/apriori)
-An introduction to the apriori algorithm...
+Master's project necessary for M.S. of Statistics degree completion.  Full paper, oral presentation slides, and apriori code examples on GitHub repository.
+
+### Abstract
+The apriori algorithm was originally created for use on transaction data, large datasets that record the items bought together in individual purchases over a set length of time.  Since its development in the mid 90's, the apriori algorithm has expanded into various areas of research.  The algorithm finds groupins of items frequently purchased together through use of joint and conditional probabilities and pruning.  The pruning method removes sets of items that do not reach use-picked thresholds to avoid longer computation times.  The apriori algorithm has been used in commerce, medical, and environmental fields, where items sold in a store are replaced by purchasing habits, patient demographics and symptoms, or geographical features, respectively.  Each topic has unique context with varying user-picked thresholds and different dimensions: we expect more observations of rainfall in a specific tropic climate than the number of patients diagnozed with a disease at a specific hospital.  Implications of incorrect analysis vary from inaccurate weather forcasts to life or death scenarios.  These parameters and frameworks are explored and compared for each area of study after introducting and explaining the apriori algorithm.  Lastly, a brief introduction to improvements and hybrid methods of the algorithm is provided.
 
 ---
 
