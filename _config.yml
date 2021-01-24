@@ -6,6 +6,8 @@ description: > # your text below (remove <br> elements if you don't need line br
   When not data-crunching, you can find me paddle boarding or baking.
   <br><br>
   <a href="https://www.linkedin.com/in/emma-m-collins/">View My LinkedIn Profile</a> 
+  <br>
+  <a href="https://github.com/Emma-M-Collins">View My GitHub Profile</a>
   
 theme: jekyll-theme-minimal
 
