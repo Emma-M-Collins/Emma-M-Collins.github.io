@@ -4,7 +4,7 @@
 
 ### Quick Links to GitHub Repositories
 * [Project 1: Spatial Statistics](https://github.com/Emma-M-Collins/spatial_stats)
-* [Project 2: Master's Thesis (Apriori Algorithm)](https://github.com/Emma-M-Collins/apriori)
+* [Project 2: Master's Project (Apriori Algorithm)](https://github.com/Emma-M-Collins/apriori)
 * [Project 3: Linear Regression with Categorical Variables](https://github.com/Emma-M-Collins/turnout_time)
 * [Project 4: Classification Showdown](https://github.com/Emma-M-Collins/classification)
 
@@ -15,7 +15,7 @@ We aim to identify high suicide rates in Colorado counties...
 
 ---
 
-## Master's Thesis:<br>[An Introduction to the Apriori Algorithm for Mining Association Rules...](https://github.com/Emma-M-Collins/apriori)
+## Master's Project:<br>[An Introduction to the Apriori Algorithm for Mining Association Rules...](https://github.com/Emma-M-Collins/apriori)
 Master's project necessary for M.S. of Statistics degree completion.  Full paper, oral presentation slides, and apriori code examples on GitHub repository.
 
 ### Abstract
