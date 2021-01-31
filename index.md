@@ -11,7 +11,10 @@
 ---
 
 ## Spatial Statistics:<br>[Identifying High Suicide Rates in Colorado](https://github.com/Emma-M-Collins/spatial_stats)
-We aim to identify high suicide rates in Colorado counties...
+* Aim to identify high rates of suicide among Colorado counties from publically available data from U.S. Census Bureau and Colorado Dept. of Health and Environment.
+* Used Spatial Scan Test and Cluster Evaluation Permutation Procedure (CEPP) under Constant Risk Hypothesis to identify areas with higher rates of suicide.
+* Re-tested using Poisson GLM for expected counts of suicide per county based a selection of statistically significant variables based on research.
+![](https://github.com/Emma-M-Collins/spatial_stats/blob/main/CRH_tests.png)
 
 ---
 
