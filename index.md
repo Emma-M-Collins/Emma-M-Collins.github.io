@@ -33,7 +33,7 @@ The apriori algorithm was originally created for use on transaction data, large 
 * Focus on *inference* over *prediction*.
 * Raw data provided from TFD from 2014-2018, over 100,000 observations and 100 potential variables.  After discussion with TFD personnel, less than 15 variables were considered relevant to build the model.
 
-![](https://github.com/Emma-M-Collins/turnout_time/blob/main/CallBox.png)
+![](https://github.com/Emma-M-Collins/Emma-M-Collins.github.io/blob/master/images/CallBox.png)
 
 National Fire Protection Association recommends a 60 second turnout time (blue line) for EMS calls and 80 seconds (red line) for complex calls.
 
