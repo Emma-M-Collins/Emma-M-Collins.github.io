@@ -15,9 +15,8 @@
 * Used Spatial Scan Test and Cluster Evaluation Permutation Procedure (CEPP) under Constant Risk Hypothesis to identify areas with higher rates of suicide.
 * Re-tested using Poisson GLM for expected counts of suicide per county based a selection of statistically significant variables based on research.
 
-<img src="https://github.com/Emma-M-Collins/spatial_stats/blob/main/suicide_proportion.png" width="450" height="375">
-![test image size](https://github.com/Emma-M-Collins/spatial_stats/blob/main/suicide_proportion.png){:height="50%" width="50%"}
-<a href="https://github.com/Emma-M-Collins/spatial_stats/blob/main/suicide_proportion.png"><img src="https://github.com/Emma-M-Collins/spatial_stats/blob/main/suicide_proportion.png" width="100" height="100"/></a>
+<img src="https://github.com/Emma-M-Collins/Emma-M-Collins.github.io/blob/master/images/CallBox.png" width="450" height="375">
+
 ---
 
 ## Master's Project:<br>[An Introduction to the Apriori Algorithm for Mining Association Rules...](https://github.com/Emma-M-Collins/apriori)
