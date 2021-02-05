@@ -15,7 +15,7 @@
 * Used Spatial Scan Test and Cluster Evaluation Permutation Procedure (CEPP) under Constant Risk Hypothesis to identify areas with higher rates of suicide.
 * Re-tested using Poisson GLM for expected counts of suicide per county based a selection of statistically significant variables based on research.
 
-![](https://github.com/Emma-M-Collins/spatial_stats/blob/main/suicide_proportion.png)
+<img src="https://github.com/Emma-M-Collins/spatial_stats/blob/main/suicide_proportion.png" alt="test" width="400" height="375">
 
 ---
 
