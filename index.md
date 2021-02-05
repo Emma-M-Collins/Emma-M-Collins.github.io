@@ -17,6 +17,7 @@
 
 <img src="https://github.com/Emma-M-Collins/spatial_stats/blob/main/suicide_proportion.png" width="450" height="375">
 ![test image size](https://github.com/Emma-M-Collins/spatial_stats/blob/main/suicide_proportion.png){:height="50%" width="50%"}
+<a href="https://github.com/Emma-M-Collins/spatial_stats/blob/main/suicide_proportion.png"><img src="https://github.com/Emma-M-Collins/spatial_stats/blob/main/suicide_proportion.png" width="100" height="100"/></a>
 ---
 
 ## Master's Project:<br>[An Introduction to the Apriori Algorithm for Mining Association Rules...](https://github.com/Emma-M-Collins/apriori)
