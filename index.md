@@ -14,6 +14,7 @@
 * Aim to identify high rates of suicide among Colorado counties from publically available data from U.S. Census Bureau and Colorado Dept. of Health and Environment.
 * Used Spatial Scan Test and Cluster Evaluation Permutation Procedure (CEPP) under Constant Risk Hypothesis to identify areas with higher rates of suicide.
 * Re-tested using Poisson GLM for expected counts of suicide per county based a selection of statistically significant variables based on research.
+
 ![](https://github.com/Emma-M-Collins/spatial_stats/blob/main/suicide_proportion.png)
 
 ---
@@ -33,16 +34,16 @@ The apriori algorithm was originally created for use on transaction data, large 
 * Raw data provided from TFD from 2014-2018, over 100,000 observations and 100 potential variables.  After discussion with TFD personnel, less than 15 variables were considered relevant to build the model.
 
 ![](https://github.com/Emma-M-Collins/Emma-M-Collins.github.io/blob/master/images/CallBox.png)
-National Fire Protection Association recommends a 60 second turnout time (blue line) for EMS calls and 80 seconds (red line) for complex calls.
+* National Fire Protection Association recommends a 60 second turnout time (blue line) for EMS calls and 80 seconds (red line) for complex calls.
 
 * Used BIC stepwise selection to determine final model.  Model was checked for any outliers and influential observations as well as a bootstrap test to ensure coefficient values.
 * Final model has 105 coefficients because of the number of categorical variables, and over 78,000 degrees of freedom.
 
 ![](https://github.com/Emma-M-Collins/turnout_time/blob/main/FinalModel.png)
-The model uses Shift A, Engine 71 responding to an auto accident between 7 and 8 AM, in June 2014 as a reference level.  On average, a call with these features has a turnout time of 103 seconds.  All other calls, engines, shifts, and times will be compared to these. 
+* The model uses Shift A, Engine 71 responding to an auto accident between 7 and 8 AM, in June 2014 as a reference level.  On average, a call with these features has a turnout time of 103 seconds.  All other calls, engines, shifts, and times will be compared to these. 
 
 ![](https://github.com/Emma-M-Collins/turnout_time/blob/main/CallCoeff.png)
-Thus, if Shift A, Engine 71 responds to an EMS-ECHO call, between 7 and 8 AM in June 2014, they will be 10 seconds faster on average.  But if they respond to a hazmat call they will be about 10 seconds slower, on average. 
+* Thus, if Shift A, Engine 71 responds to an EMS-ECHO call, between 7 and 8 AM in June 2014, they will be 10 seconds faster on average.  But if they respond to a hazmat call they will be about 10 seconds slower, on average. 
 
 ---
 
