@@ -14,6 +14,7 @@
 * Aim to identify high rates of suicide among Colorado counties from publically available data from U.S. Census Bureau and Colorado Dept. of Health and Environment.
 * Used Spatial Scan Test and Cluster Evaluation Permutation Procedure (CEPP) under Constant Risk Hypothesis to identify areas with higher rates of suicide.
 * Re-tested using Poisson GLM for expected counts of suicide per county based a selection of statistically significant variables based on research.
+
 ![](https://github.com/Emma-M-Collins/spatial_stats/blob/main/suicide_proportion.png)
 
 ---
@@ -27,8 +28,14 @@ The apriori algorithm was originally created for use on transaction data, large 
 ---
 
 ## Linear Regression:<br>[Thornton Fire Department Turnout Time Analysis](https://github.com/Emma-M-Collins/turnout_time)
-Consulting for Thornton Fire Department in Thornton, CO...
 
+* Consulting with Thornton Fire Department (TFD) to help identify what variables, such as engine and call type, increase turnout time, the time it takes to put on the proper gear to leave the station after receiving a call.  
+* Focus on *inference* over *prediction*.
+
+![](https://github.com/Emma-M-Collins/turnout_time/blob/main/CallBox.png)
+
+
+![](https://github.com/Emma-M-Collins/turnout_time/blob/main/CallCoeff.png)
 ---
 
 ## Classification:<br>[Logistic Regression vs Random Forest on Mine Dataset](https://github.com/Emma-M-Collins/classification)
