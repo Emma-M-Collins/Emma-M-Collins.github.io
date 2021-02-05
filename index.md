@@ -16,7 +16,7 @@
 * Re-tested using Poisson GLM for expected counts of suicide per county based a selection of statistically significant variables based on research.
 
 <img src="https://github.com/Emma-M-Collins/spatial_stats/blob/main/suicide_proportion.png" width="450" height="375">
-
+![test image size](https://github.com/Emma-M-Collins/spatial_stats/blob/main/suicide_proportion.png){:height="50%" width="50%"}
 ---
 
 ## Master's Project:<br>[An Introduction to the Apriori Algorithm for Mining Association Rules...](https://github.com/Emma-M-Collins/apriori)
