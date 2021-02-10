@@ -44,7 +44,7 @@ National Fire Protection Association recommends a 60 second turnout time (blue l
 
 The model uses Shift A, Engine 71 responding to an auto accident between 7 and 8 AM, in June 2014 as a reference level.  On average, a call with these features has a turnout time of 103 seconds.  All other calls, engines, shifts, and times will be compared to these. 
 
-![Coefficients for Dummy Variables](images/CallCoeff)
+![Coefficients for Dummy Variables](images/CallCoeff.png)
 
 Thus, if Shift A, Engine 71 responds to an EMS-ECHO call, between 7 and 8 AM in June 2014, they will be 10 seconds faster on average.  But if they respond to a hazmat call they will be about 10 seconds slower, on average. 
 
