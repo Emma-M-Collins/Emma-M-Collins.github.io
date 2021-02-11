@@ -49,8 +49,11 @@ Thus, if Shift A, Engine 71 responds to an EMS-ECHO call, between 7 and 8 AM in 
 
 ---
 
-## Classification:<br>[Logistic Regression vs Random Forest on Mine Dataset](https://github.com/Emma-M-Collins/classification)
-Project to test the limits of Logistic Regression and Random Forest on a highly colinear dataset...
+## Classification:<br>[Logistic Regression vs Random Forest on Sonar Dataset](https://github.com/Emma-M-Collins/classification)
+* Uses the [Sonar dataset] (https://archive.ics.uci.edu/ml/datasets/Connectionist+Bench+%28Sonar%2C+Mines+vs.+Rocks%29), from University of California, Irvine's [Machine Learning Repository](https://archive.ics.uci.edu/ml/index.php). 
+* 208 observations of binary data with 60 continuous predictors of highly colinear data.
+* Aim to see whether logistic regression or random forest performs better.
+* "Better" method will be determined by accuracy, precision, true positive rate, false positive rate, false negative rates, and ROC curves/AUC.
 
 
 ---
