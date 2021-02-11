@@ -14,6 +14,7 @@
 * Aim to identify high rates of suicide among Colorado counties from publically available data from U.S. Census Bureau and Colorado Dept. of Health and Environment.
 * Used Spatial Scan Test and Cluster Evaluation Permutation Procedure (CEPP) under Constant Risk Hypothesis to identify areas with higher rates of suicide.
 * Re-tested using Poisson GLM for expected counts of suicide per county based a selection of statistically significant variables based on research.
+
 ![Proportion of Suicides](images/suicide_proportion.png)
 
 ---
@@ -50,11 +51,31 @@ Thus, if Shift A, Engine 71 responds to an EMS-ECHO call, between 7 and 8 AM in 
 ---
 
 ## Classification:<br>[Logistic Regression vs Random Forest on Sonar Dataset](https://github.com/Emma-M-Collins/classification)
-* Uses the [Sonar dataset] (https://archive.ics.uci.edu/ml/datasets/Connectionist+Bench+%28Sonar%2C+Mines+vs.+Rocks%29), from University of California, Irvine's [Machine Learning Repository](https://archive.ics.uci.edu/ml/index.php). 
+* Uses the [Sonar dataset](https://archive.ics.uci.edu/ml/datasets/Connectionist+Bench+%28Sonar%2C+Mines+vs.+Rocks%29), from University of California, Irvine's [Machine Learning Repository](https://archive.ics.uci.edu/ml/index.php). 
 * 208 observations of binary data with 60 continuous predictors of highly colinear data.
 * Aim to see whether logistic regression or random forest performs better.
-* "Better" method will be determined by accuracy, precision, true positive rate, false positive rate, false negative rates, and ROC curves/AUC.
+* Better method will be determined by accuracy, precision, true positive rate, false positive rate, false negative rates, and ROC curves/AUC.
+* Data split into 75% training data and 25% test data.
 
+<br>
+
+Test Data
+Method | Accuracy | Precision | TPR | FPR | FNR
+--- | --- | --- | --- | --- | --- |
+Logistic Regression |  0.615 | 0.625 | 0.714 | 0.333 | 0.429
+Random Forest | 0.808 | 0.750 | 0.964 | 0.042 | 0.321
+
+<br>
+
+ROC Curves | & AUC
+--- | ---
+![](images/LRROC.png) | ![](images/RFROC.png)
+
+* In all facets, random forest outperforms logistic regression.
+* Logistic regression had a massive problem with colinearity, unstable results
+* ROC curves also indicates random forest predicts much better, the high AUC indicates the method has high seperability
+
+### Random Forest Wins!
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
