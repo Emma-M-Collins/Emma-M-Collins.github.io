@@ -60,8 +60,9 @@ Thus, if Shift A, Engine 71 responds to an EMS-ECHO call, between 7 and 8 AM in 
 <br>
 
 Test Data
-Method | Accuracy | Precision | TPR | FPR | FNR
---- | --- | --- | --- | --- | --- |
+
+Method | Accuracy | Precision | TPR | FPR | FNR |
+--- | ---:| ---:| ---:| ---:| ---:|
 Logistic Regression |  0.615 | 0.625 | 0.714 | 0.333 | 0.429
 Random Forest | 0.808 | 0.750 | 0.964 | 0.042 | 0.321
 
