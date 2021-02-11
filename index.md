@@ -57,10 +57,7 @@ Thus, if Shift A, Engine 71 responds to an EMS-ECHO call, between 7 and 8 AM in 
 * Better method will be determined by accuracy, precision, true positive rate, false positive rate, false negative rates, and ROC curves/AUC.
 * Data split into 75% training data and 25% test data.
 
-<br>
-
 Test Data
-
 | Method             | Accuracy | Precision |  TPR |  FPR |  FNR |
 | ------------------ | --------:| ---------:| ----:| ----:| ----:|
 |Logistic Regression |     0.615|      0.625| 0.714| 0.333| 0.429|
